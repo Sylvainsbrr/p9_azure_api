@@ -30,6 +30,7 @@ dist
 
 # Local python packages
 .python_packages/
+.vscode/
 
 # Dossier d'environnement
 mycontent_env/
@@ -37,6 +38,7 @@ mycontent_env/
 # Fichiers de configuration locaux
 .env
 local.settings.json
+host.json
 
 
 # Python Environments
